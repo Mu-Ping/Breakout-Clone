@@ -1,4 +1,14 @@
 # Breakout-Clone Game
 
-## 遊戲示意圖
-<img src="https://i.imgur.com/8932Tg0.png" width="532" height="378">
+## 遊戲簡介
+### 使用說明：
+> 一款「打磚塊」的小遊戲
+
+* 按下 \<space\> 即開始遊戲
+  
+* 鍵盤 \<left\>、\<right\> 操控踏板
+
+* 漏球三次即失敗，可重新開始遊戲
+
+### 範例圖：
+![](https://i.imgur.com/zfHWybL.png)
